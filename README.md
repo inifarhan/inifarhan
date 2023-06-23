@@ -29,7 +29,7 @@ I am a Full-stack Web Developer
 <br/>
 <br/>
 
-Let's connect 👨‍💻 and forge the future together.😁
+Let's connect 👨‍💻 and forge the future together.
 
 **Check the Repositories and don't forget to give a star.** 👇
 
