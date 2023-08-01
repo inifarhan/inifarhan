@@ -1,6 +1,6 @@
 ### Hey Farhan here 👋
 
-I am a Full-stack Web Develop
+I am a Full-stack Web Develope
 
 ---
 
