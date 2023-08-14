@@ -10,7 +10,7 @@
 <a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a src="https://tailwindcss.com/"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></a>
-<a src="https://redux.com/"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
+<a src="https://redux.com/"><img src="https://img.icons8.com/color/48/000000/prisma.png"/></a>
 <a src="https://www.nextjs.org/"><img src="https://img.icons8.com/color/48/000000/nextjs.png"/></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a src="https://www.expressjs.com/"><img src="https://img.icons8.com/color/48/000000/express-js.png"/></a>
