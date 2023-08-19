@@ -1,4 +1,4 @@
-agsfadadkdflflsaddkdaadd# Hey Farhan here 👋
+# Hey Farhan here 👋
 
 ### I am a Full-stack Web Developer
 ---
