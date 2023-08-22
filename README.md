@@ -2,9 +2,9 @@
 Hi, I'm Farhan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
+<h3 align="center">I am a Full-stack Web Developer</h3>
 <img src="https://komarev.com/ghpvc/?username=inifarhan&label=Profile%20Views&color=0e75b6&style=for-the-badge" align='right' alt="inifarhan" />
 
-### I am a Full-stack Web Developer
 ---
 
 ## Tech & Tools Preference
