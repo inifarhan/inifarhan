@@ -7,7 +7,7 @@ Hi, I'm Farhan
 ### I am a Full-stack Web Developer
 ---
 
-### Tech & Tools Preference
+## Tech & Tools Preference
 
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
@@ -24,7 +24,9 @@ Hi, I'm Farhan
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mysql.png"/></a>
 <a src="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=inifarhan&show_icons=true&hide_border=true)
+## 📈 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=inifarhan&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=inifarhan&theme=react&hide_border=false)<br/>
 
 ---
 
