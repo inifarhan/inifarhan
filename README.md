@@ -1,4 +1,8 @@
-# Hi, I'm Farhan 👋
+<h1 align="center">
+Hi, I'm Farhan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
+<img src="https://komarev.com/ghpvc/?username=inifarhan&label=Profile%20Views&color=0e75b6&style=for-the-badge" align='right' alt="inifarhan" />
 
 ### I am a Full-stack Web Developer
 ---
