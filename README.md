@@ -26,7 +26,7 @@ Hi, I'm Farhan
 <a src="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 
 ## 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=inifarhan&theme=react&hide_border=false&include_all_commits=true&layout=compact)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=inifarhan&theme=react&hide_border=false&include_all_commits=false&layout=compact)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=inifarhan&theme=react&hide_border=false)<br/>
 
 ---
